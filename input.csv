@@ -1,0 +1,7 @@
+name_address,query_type
+aut.ac.ir,A
+google.com,A
+kanoon.ir,CNAME
+kanoon.ir,A
+aut.ac.ir,TXT
+github.com,NS
